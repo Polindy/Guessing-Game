@@ -51,3 +51,7 @@ Additional Commands:
 "I give up": Skips the current round, reveals the item, and moves on.
 "I want a hint" (Baby Mode only): Provides a new hint for the current item.
 That's it! Enjoy playing the game and see how many rounds you can win!
+
+
+
+Update V2! hints are now in easy and medium mode! you have 1 hint in medium and 3 in easy also the total fails allowed has been updated for easy mode it is now 20 instead of infinite
